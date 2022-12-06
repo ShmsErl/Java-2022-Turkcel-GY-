@@ -1,0 +1,29 @@
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form4.resources
+C:\Users\hulus\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form5.resources
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.Form4.resources
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.Form5.resources
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\ali_s\Desktop\Otobus-Bilet-Otomasyonu-master\Otobus Otomasyonu\Otomasyon\bin\Debug\Otomasyon.pdb
